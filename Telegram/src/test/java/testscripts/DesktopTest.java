@@ -6,8 +6,9 @@ public class DesktopTest {
 
 	
 	@Test
-	public void desk() {
-//		driver.change.happened
+	public void desk() 
+	driver.change.happened
 		Ask i did changes
+	Driver.srtep
 	}
 }
